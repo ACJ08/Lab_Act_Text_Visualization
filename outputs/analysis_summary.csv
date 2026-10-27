@@ -1,0 +1,11 @@
+metric,value
+messages,5574
+word_count,90381
+ham,4827
+spam,747
+dtm_terms,6524
+tfidf_terms,6524
+spam_term,call
+ham_term,ok
+gap_term,call
+gap,0.4001
